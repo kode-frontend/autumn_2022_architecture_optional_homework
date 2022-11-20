@@ -14,3 +14,5 @@
 # Полезные ссылки:
 * [Официальная документация](https://feature-sliced.design/docs)
 * [Примеры проектов](https://feature-sliced.design/examples)
+* [Архитектурная методология Feature Sliced / Даниил Крохмаль](https://www.youtube.com/watch?v=BEMx3iAHP2I)
+* [Feature-Sliced Design — Архитектура Frontend проектов / Илья Азин, Яндекс](https://www.youtube.com/watch?v=af-PD2yIUiU)
